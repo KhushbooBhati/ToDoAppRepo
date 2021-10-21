@@ -1,0 +1,9 @@
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\bin\Debug\netcoreapp3.1\TODoList.Interfaces.deps.json
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\bin\Debug\netcoreapp3.1\TODoList.Interfaces.dll
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\bin\Debug\netcoreapp3.1\TODoList.Interfaces.pdb
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\obj\Debug\netcoreapp3.1\TODoList.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\obj\Debug\netcoreapp3.1\TODoList.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\obj\Debug\netcoreapp3.1\TODoList.Interfaces.AssemblyInfo.cs
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\obj\Debug\netcoreapp3.1\TODoList.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\obj\Debug\netcoreapp3.1\TODoList.Interfaces.dll
+C:\Users\Kuldeep Vyas\source\repos\TODoList.Interfaces\obj\Debug\netcoreapp3.1\TODoList.Interfaces.pdb

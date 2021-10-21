@@ -1,0 +1,12 @@
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\ToDoList.Entities.deps.json
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\ToDoList.Entities.dll
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\ToDoList.Entities.pdb
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\TODoList.Interfaces.dll
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\TODoList.Interfaces.pdb
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Entities.csproj.AssemblyReference.cache
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Entities.AssemblyInfoInputs.cache
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Entities.AssemblyInfo.cs
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Entities.csproj.CopyComplete
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Entities.dll
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Entities.pdb

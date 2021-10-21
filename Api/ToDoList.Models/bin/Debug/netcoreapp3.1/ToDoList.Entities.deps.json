@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ToDoList.Entities/1.0.0": {
+        "dependencies": {
+          "TODoList.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ToDoList.Entities.dll": {}
+        }
+      },
+      "TODoList.Interfaces/1.0.0": {
+        "runtime": {
+          "TODoList.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDoList.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TODoList.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

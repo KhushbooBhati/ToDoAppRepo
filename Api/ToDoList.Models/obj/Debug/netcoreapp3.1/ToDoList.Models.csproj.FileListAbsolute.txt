@@ -1,0 +1,12 @@
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\ToDoList.Models.deps.json
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\ToDoList.Models.dll
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\ToDoList.Models.pdb
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\TODoList.Interfaces.dll
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\bin\Debug\netcoreapp3.1\TODoList.Interfaces.pdb
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Models.csproj.AssemblyReference.cache
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Models.AssemblyInfoInputs.cache
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Models.AssemblyInfo.cs
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Models.csproj.CopyComplete
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Models.dll
+C:\Users\Kuldeep Vyas\source\repos\ToDoList.Models\obj\Debug\netcoreapp3.1\ToDoList.Models.pdb
