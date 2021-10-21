@@ -1,0 +1,23 @@
+<div [ngClass]="{ 'grid-container': toDoLists.length>0 }"class="grid-container">
+    <div>
+        <div id="myDIV" class="header">
+            <h2>To Do List</h2>
+            <form #listName="ngForm" (ngSubmit)="onAddList(listName.value)">
+                <input type="text" name="listName" placeholder="New List Name..." ngModel />
+                <button type="submit" class="addBtn">Add List</button>
+            </form>
+        </div>
+        <div *ngIf="toDoLists.length>0">
+            <ul id="todoList">
+                <li [ngClass]="{ 'active': list.id==selectedToDoList.id }" (click)="onToDoListClick(list.id)" *ngFor="let list of toDoLists">{{list.name}}</li>
+            </ul>
+        </div>
+        <div class="message" *ngIf="toDoLists.length==0">
+            You do not have any list of tasks available!!!
+        </div>
+    </div>
+    <div *ngIf="toDoLists.length>0">
+        <app-todo-list-item [selectedToDoList]="selectedToDoList" (onAddTask)="addTaskForList($event)"
+            (onTaskComplete)="onTaskComplete($event)"></app-todo-list-item>
+    </div>
+</div>

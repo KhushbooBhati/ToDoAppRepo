@@ -1,0 +1,18 @@
+<div>
+    <div id="taskDiv" class="header">
+        <h2> {{selectedToDoList?.name}} : Tasks</h2>
+        <form #taskName="ngForm" (ngSubmit)="AddTask(taskName.value)"> 
+        <input type="text" name="taskName" placeholder="Task Name..." ngModel />
+        <button type="submit" class="addBtn">Add Task</button>
+    </form>
+    </div>
+    <div *ngIf="taskList.length>0">
+        <ul id="myUL">
+            <li [ngClass]="task.isCompleted  ?'checked':''" *ngFor="let task of taskList"> <div *ngIf="!task.isCompleted"><input class="checkbox-round" (click)="onCompleteTask(task)" type="checkbox"/></div> <div style=" margin:0px 50px;">{{task.name}}</div></li>
+        </ul>
+    </div>
+    <div class="message" *ngIf="taskList.length==0">
+        You do not have any tasks available in this list
+    </div>
+    
+</div>
